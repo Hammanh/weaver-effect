@@ -65,9 +65,10 @@ This founding document presents:
 ## PRIOR ART AND LEGAL PROTECTION
 
 ### Zenodo (DOI)
-- **DOI:** 10.5281/zenodo.17907126
-- **URL:** https://zenodo.org/records/17907126
-- **Date:** December 12, 2025
+- **DOI:** 10.5281/zenodo.17919637 (v2.2)
+- **URL:** https://zenodo.org/records/17919637
+- **Date:** December 13, 2025
+- **Previous:** 10.5281/zenodo.17907126 (v2.1)
 
 ### GitHub
 - **URL:** https://github.com/Hammanh/weaver-effect
@@ -99,7 +100,7 @@ Consciousness, Quantum Physics, Time, Observer Effect, oXc, Temporal Navigation,
 
 ## CITATION
 
-Boucher, Marc Victor R. (2025). The Weaver Effect: Theory and Practice of Temporal Magnetization Protocol. Zenodo. https://doi.org/10.5281/zenodo.17907126
+Boucher, Marc Victor R. (2025). The Weaver Effect: Theory and Practice of Temporal Magnetization Protocol. Zenodo. https://doi.org/10.5281/zenodo.17919637
 
 ---
 
@@ -111,6 +112,7 @@ Boucher, Marc Victor R. (2025). The Weaver Effect: Theory and Practice of Tempor
 
 ## RECENT UPDATES (December 13, 2025)
 
+- **Zenodo v2.2:** DOI 10.5281/zenodo.17919637 published
 - **D17_resonance:** New inter-HoloÏdea mycelium layer added to 133 ideograms
 - **FORMAT v3.5:** 18-dimension standard now active across the library
 - **L-EFFET-TISSERAND.oxc:** Integrated into the holotropic library with full resonance mapping
