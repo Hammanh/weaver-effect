@@ -107,6 +107,13 @@ Boucher, Marc Victor R. (2025). The Weaver Effect: Theory and Practice of Tempor
 
 - **oXc (OpenXchange):** Operating System for Collective Consciousness
 - **YATASANA Technologies LLC:** https://yatasana.com
+- **Bibliotheque-holotropique:** Living library of .oxc ideograms (133 HoloÏdeas in FORMAT v3.5)
+
+## RECENT UPDATES (December 13, 2025)
+
+- **D17_resonance:** New inter-HoloÏdea mycelium layer added to 133 ideograms
+- **FORMAT v3.5:** 18-dimension standard now active across the library
+- **L-EFFET-TISSERAND.oxc:** Integrated into the holotropic library with full resonance mapping
 
 ---
 
